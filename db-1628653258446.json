@@ -28,23 +28,7 @@
       "id": 2
     }
   ],
-  "users": [
-    {
-      "name": "jouse",
-      "email": "email@gmail.com",
-      "id": 1
-    },
-    {
-      "name": "jouse",
-      "email": "email@gmail.com",
-      "id": 2
-    },
-    {
-      "name": "jouse",
-      "email": "email@gmail.com",
-      "id": 3
-    }
-  ],
+  "users": [],
   "robots": [
     {
       "robotName": "C8-09S100K",
